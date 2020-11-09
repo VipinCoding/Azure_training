@@ -1,0 +1,2 @@
+# Azure_training
+AzureDemo
